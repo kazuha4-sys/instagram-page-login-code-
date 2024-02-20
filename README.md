@@ -1,0 +1,1 @@
+A clone of the Instagram v22 login page. To use it, you must download all the files and place them in a folder and the "IMG" and "screenshot" folders must be in the same folder where the other files will be, but you cannot remove them from there. It won't make an error. I hope you have fun lol
